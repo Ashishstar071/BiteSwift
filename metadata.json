@@ -1,0 +1,6 @@
+{
+  "name": "Food Ordering & Delivery System",
+  "description": "An interactive web platform to browse restaurants, order food online, simulate secure payments, and track deliveries in real time with an interactive merchant dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
